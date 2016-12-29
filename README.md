@@ -1,5 +1,5 @@
 
-## AWS What's New Web Scrapper
+## AWS What's New Web Scraper
 
 This repo is a fun, quick-and-dirty Python script that I wrote to count the number of AWS announcements.
 
