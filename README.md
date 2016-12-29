@@ -1,10 +1,11 @@
 
 ## AWS What's New Web Scraper
 
-This repo is a fun, quick-and-dirty Python script that I wrote to count the number of AWS announcements.
+This repo is a fun, quick-and-dirty Python script that I wrote to count the number of AWS announcements in a given year.
 
-Every year, I'm curious about the number of AWS announcements and instead of counting the manually,
-I spend a few minutes writing this Python script.
+Every year, I'm curious about the number of AWS announcements and instead of counting them manually,
+I spent a few minutes writing this Python script. It extracts information from the following site:
+https://aws.amazon.com/about-aws/whats-new/2016
 
 
 ### Install and run
@@ -20,9 +21,7 @@ To run it, just execute the following:
 
 
 That's it, the script will generate three files:
-announcements_<year>.txt
-months_<year>.txt
-wordcloud_<year>.txt
+announcements_year.txt , months_year.txt and wordcloud_year.txt
 
 
 This is a chart that compares the number of announcements made in 2015 and 2016 by month:
