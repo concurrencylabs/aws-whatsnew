@@ -5,7 +5,7 @@ This repo is a fun, quick-and-dirty Python script that I wrote to count the numb
 
 Every year, I'm curious about the number of AWS announcements and instead of counting them manually,
 I spent a few minutes writing this Python script. It extracts information from the following site:
-https://aws.amazon.com/about-aws/whats-new/2016
+https://aws.amazon.com/about-aws/whats-new/
 
 
 ### Install and run
@@ -17,7 +17,7 @@ Clone this repo, create and activate a virtualenv and run:
 
 To run it, just execute the following:
 
-```python scrape.py --year=2016```
+```python scrape.py --year=<2016|2017|etc.>```
 
 
 That's it, the script will generate three files:
@@ -31,6 +31,11 @@ This is a chart that compares the number of announcements made in 2015 and 2016 
 And this is a word cloud with the 2016 announcements:
 
 ![2016 word cloud](https://www.concurrencylabs.com/img/announcements-wordcloud-2016.png)
+
+
+And so far with 2017 announcements:
+
+![2016 word cloud](https://www.concurrencylabs.com/img/announcements-wordcloud-2017.png)
 
 
 

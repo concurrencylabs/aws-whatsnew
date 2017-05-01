@@ -44,7 +44,7 @@ def init_month_dict():
 
 def write_month_table(month_dict, year):
     mt = open('months_'+year+'.txt','w')
-    mt.write('Month\tReleases\n')
+    mt.write('Month\tAnnouncements\n')
     for m in MONTHS:
         mt.write(m+'\t'+str(month_dict[m])+'\n')
     mt.close
