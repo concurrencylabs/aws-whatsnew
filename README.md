@@ -33,7 +33,7 @@ And this is a word cloud with the 2016 announcements:
 ![2016 word cloud](https://www.concurrencylabs.com/img/announcements-wordcloud-2016.png)
 
 
-And so far with 2017 announcements:
+And with 2017 announcements:
 
 ![2017 word cloud](https://www.concurrencylabs.com/img/announcements-wordcloud-2017.png)
 
