@@ -38,6 +38,8 @@ And so far with 2017 announcements:
 ![2017 word cloud](https://www.concurrencylabs.com/img/announcements-wordcloud-2017.png)
 
 
+Word cloud generated using: https://www.wordclouds.com/
+
 
 
 
